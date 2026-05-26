@@ -8,8 +8,6 @@ The project shows a basic 2D aquarium scene where two fish move from opposite di
 The main purpose of this project is to demonstrate basic OpenGL drawing and animation concepts.  
 The aquarium scene is created using simple 2D shapes such as polygons, triangles, circles, and quadrilaterals.
 
-The project is intentionally kept simple and rudimentary so that it looks suitable for a beginner who has recently learned basic OpenGL concepts.
-
 ## Features
 
 - Simple 2D aquarium environment
